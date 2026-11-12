@@ -1,0 +1,13 @@
+{
+  "projeto": "Sistema de Check-in Rápido para Biblioteca SENAI",
+  "nomeProduto": "BiblioQR",
+  "edicao": "Projeto Integrador DEV 2026",
+  "escola": "SENAI Morvan Figueiredo",
+  "tagline": "Do problema real à solução tecnológica.",
+  "membros": [
+    {
+      "nome": "Fabiana",
+      "responsabilidade": "Landing Page & Apresentação Comercial"
+    }
+  ]
+}
